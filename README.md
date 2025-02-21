@@ -6,7 +6,7 @@
 ---
 
 ### 📖 **What This Project Does**  
-This automated system **scrapes entry-level Data Scientist jobs** from Indeed and LinkedIn daily, filters them by experience level, and emails you a curated list. Perfect for job seekers who want to avoid manual searches!
+This automated system **scrapes entry-level Data Scientist jobs** from Indeed and LinkedIn daily, filters them by experience level, and emails you a curated list. Kinda Obsolete with the rise of AI now.
 
 ---
 
